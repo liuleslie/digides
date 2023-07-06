@@ -1,5 +1,5 @@
 ### DigiDes Guide
-Notes for digital design workflow.
+Notes for digital design workflow at Soso.
 
 ### Categories
 Topics loosely slot into three categories:
